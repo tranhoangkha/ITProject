@@ -2,4 +2,9 @@ noi dung thu nhat
 
 noi dung thu hai
 
+<<<<<<< HEAD
 sua file thu nhat o may thu 1
+=======
+xoa file thu ba
+
+>>>>>>> 4e384614170676a44a9beaeff0f4a89d95153603
