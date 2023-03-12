@@ -11,4 +11,10 @@ dung git gui here
 
 dung sourcetree
 
+<<<<<<< HEAD
 noi dung moi o nhanh main
+=======
+noi dung them moi ben nhanh main
+
+thay doi nhanh c khi dung tren nhanh c truoc khi merge
+>>>>>>> nhanvienc
