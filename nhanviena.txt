@@ -11,3 +11,4 @@ dung git gui here
 
 dung sourcetree
 
+noi dung moi o nhanh main
