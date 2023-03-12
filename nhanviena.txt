@@ -6,3 +6,5 @@ noi dung them moi o main
 noi dung tren nhanh a
 
 toi day ket thuc buoi hoc di cham bai
+
+dung git gui here
