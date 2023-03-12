@@ -11,3 +11,6 @@ dung git gui here
 
 dung sourcetree
 
+noi dung them moi ben nhanh main
+
+thay doi nhanh c khi dung tren nhanh c truoc khi merge
